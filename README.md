@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @purushottambarde17
-- 👀 I’m interested in ML, AI, Deep learning, Genrative AI
+- 👀 I’m interested in ML, AI, Deep learning and Genrative AI
 - 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on Self Driving Car
 - 📫 How to reach me purushottambarde84@gmail.com
