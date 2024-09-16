@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @purushottambarde17
+- 👋 Hi, I’m Purushottam Barde
 - 👀 I’m interested in ML, AI, Deep learning and Genrative AI
 - 🌱 I’m currently learning Genrative AI
 - 💞️ I’m looking to collaborate on Self Driving Car
