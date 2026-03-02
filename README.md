@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Purushottam Barde
-- 👀 I’m interested in ML, AI, Deep learning and Genrative AI
-- 🌱 I’m currently learning Genrative AI
-- 💞️ I’m looking to collaborate on Self Driving Car
-- 📫 How to reach me purushottambarde84@gmail.com
+- 👀 I’m interested in ML, AI, Deep learning, Genrative AI and Agentic AI
+- 💞️ I’m looking to collaborate on Agentic AI enabled Chabot
+- 📫 How to reach me purushottambarde0@gmail.com
 - 💬 ask me about anything, i am happy to help;
 
 <!---
